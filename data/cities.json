@@ -1,0 +1,62 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🏳️‍🌈",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🏳️‍🌈",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🏳️‍🌈",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "032f",
+      "cityName": "Pune",
+      "country": "India",
+      "date": "2024-11-28T15:33:34.361Z",
+      "notes": "",
+      "position": {
+        "lat": "18.56743597079438",
+        "lng": "73.87207031250001"
+      }
+    },
+    {
+      "id": "3a5f",
+      "cityName": "Sesa",
+      "country": "Spain",
+      "date": "2024-11-29T18:25:49.661Z",
+      "notes": "",
+      "position": {
+        "lat": "41.98343840071461",
+        "lng": "-0.23811222465752738"
+      }
+    }
+  ]
+}
